@@ -6,3 +6,6 @@ Cosas pendientes:
 - Saber que voy a meter
 - Aprobar ISI
 - Presentar mi proyecto de Mule
+
+### Datos de contacto
+Puedes consultar mi perfil para contactarme.
